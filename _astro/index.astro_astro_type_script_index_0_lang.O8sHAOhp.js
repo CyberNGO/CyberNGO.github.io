@@ -1,0 +1,1 @@
+import{i as e,s as o}from"./index.iTztptWq.js";import{a as t}from"./index.gxA06IC-.js";const a=document.querySelector("[data-roles-grid]");a&&e(a,()=>{const r=a.querySelectorAll("[data-role-card]");t(r,{opacity:[0,1],y:[16,0]},{delay:o(.05),duration:.4,easing:[.22,1,.36,1]})});

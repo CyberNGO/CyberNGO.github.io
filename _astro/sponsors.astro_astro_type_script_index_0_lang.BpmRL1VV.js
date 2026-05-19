@@ -1,0 +1,1 @@
+import{i as r,s as t}from"./index.iTztptWq.js";import{a as s}from"./index.gxA06IC-.js";const a=document.querySelector("[data-sponsors-root]");a&&r(a,()=>{const o=a.querySelectorAll("[data-sp-card]");s(o,{opacity:[0,1],y:[14,0]},{delay:t(.05),duration:.4,easing:[.22,1,.36,1]})});

@@ -1,0 +1,1 @@
+import{i as a,s as o}from"./index.iTztptWq.js";import{a as s}from"./index.gxA06IC-.js";const e=document.querySelector("[data-events-list]");e&&a(e,()=>{const t=e.querySelectorAll("[data-event-row]");s(t,{opacity:[0,1],y:[10,0]},{delay:o(.05),duration:.35,easing:"ease-out"})});

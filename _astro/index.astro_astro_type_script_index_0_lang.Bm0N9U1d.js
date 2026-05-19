@@ -1,0 +1,1 @@
+import{i as e,s as o}from"./index.iTztptWq.js";import{a as t}from"./index.gxA06IC-.js";const a=document.querySelector("[data-programs-grid]");a&&e(a,()=>{const r=a.querySelectorAll("[data-program-card], .program-card--events");t(r,{opacity:[0,1],y:[18,0]},{delay:o(.07),duration:.5,easing:[.22,1,.36,1]})});

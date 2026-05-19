@@ -1,0 +1,1 @@
+import{i as t,s as e}from"./index.iTztptWq.js";import{a as i}from"./index.gxA06IC-.js";const a=document.querySelector("[data-awards-grid]");a&&t(a,()=>{const r=a.querySelectorAll("[data-award-card]");i(r,{opacity:[0,1],y:[20,0]},{delay:e(.1),duration:.55,easing:[.22,1,.36,1]})});

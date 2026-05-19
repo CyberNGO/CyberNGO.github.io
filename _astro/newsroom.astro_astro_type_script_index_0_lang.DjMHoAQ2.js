@@ -1,0 +1,1 @@
+import{i as r,s as t}from"./index.iTztptWq.js";import{a as i}from"./index.gxA06IC-.js";const a=document.querySelector("[data-news-grid]");a&&r(a,()=>{const e=a.querySelectorAll("[data-news-card]");i(e,{opacity:[0,1],y:[16,0]},{delay:t(.06),duration:.45,easing:[.22,1,.36,1]})});
