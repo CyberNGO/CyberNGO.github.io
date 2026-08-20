@@ -1,0 +1,1 @@
+import{e as g}from"./index.ITbeagxA.js";function f(t,e){if(t==="first")return 0;{const n=e-1;return t==="last"?n:n/2}}function d(t=.1,{startDelay:e=0,from:n=0,ease:i}={}){return(r,a)=>{const c=typeof n=="number"?n:f(n,a),u=Math.abs(c-r);let s=t*u;if(i){const o=a*t;s=g(i)(s/o)*o}return e+s}}export{f as g,d as s};

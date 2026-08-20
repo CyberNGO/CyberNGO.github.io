@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# C1: must name the origin that actually serves this content.
+# Update this line (and SITE_ORIGIN in the deploy workflow) at domain cutover.
+Sitemap: https://cyberngo.github.io/sitemap-index.xml

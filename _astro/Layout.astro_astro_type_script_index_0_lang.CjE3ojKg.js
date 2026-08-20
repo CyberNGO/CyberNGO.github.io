@@ -1,0 +1,1 @@
+import{_ as t}from"./preload-helper.BlTxHScW.js";const o=navigator.connection;if(!o?.saveData){const e=()=>t(()=>import("./vitals.BP1FrMkA.js"),[]);"requestIdleCallback"in window?requestIdleCallback(e,{timeout:8e3}):setTimeout(e,4e3)}
